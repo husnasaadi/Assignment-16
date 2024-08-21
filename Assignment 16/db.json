@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "username": "typicode",
+      "email": "abc@gmail.com",
+      "phone": "000"
+    },
+    {
+      "function values() { [native code] }": "",
+      "id": 2
+    },
+    {
+      "name": "husna",
+      "email": "saadiasaadi944@gmail.com",
+      "phone": "1234566778",
+      "id": 3
+    },
+    {
+      "name": "husna",
+      "email": "saadiasaadi944@gmail.com",
+      "phone": "0123345",
+      "id": 4
+    },
+    {
+      "name": "husna",
+      "email": "saadiasaadi944@gmail.com",
+      "phone": "0123345",
+      "id": 5
+    },
+    {
+      "name": "husna",
+      "email": "saadiasaadi944@gmail.com",
+      "phone": "09999999999",
+      "id": 6
+    },
+    {
+      "name": "husna",
+      "email": "saadiasaadi944@gmail.com",
+      "phone": "09999999999",
+      "id": 7
+    }
+  ]
+}
